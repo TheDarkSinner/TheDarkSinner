@@ -42,17 +42,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSinner
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TheDarkSinner) -->
 
 ## 💻 Development Tools
-
 <code>
-<img title="Ubuntu" alt="OS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> |
-<img title="Visual Studio Code" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> |
-<img title="Terminal" alt="Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /> |
-<img title="Git" alt="Version Control" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> |
-<img title="Spotify" alt="Music App" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> |
+<img title="Ubuntu" alt="OS" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> 
+<img title="Visual Studio Code" alt="VSCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> 
+<img title="Terminal" alt="Terminal" src="https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white" /> 
+<img title="Git" alt="Version Control" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /> 
+<img title="Spotify" alt="Music App" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> 
 </code>
 
 ### Programming Languages
-
 <code>
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
 <img title="TypeScript" alt="TS"  src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -61,7 +59,6 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSinner
 </code>
 
 ### Libraries, Frameworks, and Other Tools
-
 <code>
 <img alt="Node.js" title="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
 <img alt="Test Library" title="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white">
