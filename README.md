@@ -71,7 +71,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs?username=TheDarkSinner
 </code>
 
 
-## 🚀 Some of my personal work
+## 🚀 Some of my personal work (Deprecated stuff)
 
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDarkSinner&repo=dragonmo_bot_tracker&theme=tokyonight)](https://github.com/TheDarkSinner/dragonmo_bot_tracker)
  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TheDarkSinner&repo=momo_bot_tracker&theme=tokyonight)](https://github.com/TheDarkSinner/momo_bot_tracker)
