@@ -6,8 +6,8 @@ Welcome to my profile! You might find something interesting here... or maybe not
 
 ## 🚀 About Me
 
-- 🖥️ **Technologies**: Node.js, TypeScript, Solidity, Python, OutSystems
-- 🛠️ **Tools**: Puppeteer, Selenium, GraphQL, WebSockets...
+- 🖥️ **Technologies**: Node.js, TypeScript, Solidity, React, Express, OutSystems
+- 🛠️ **Tools**: Puppeteer, Selenium, GraphQL, N8N, WebSockets...
 - 💡 **Interests**: Blockchain, Smart Contracts, DeFi, Bots, Game Hacking, Pentests.
 
 ### 😊 Want to get in touch with me?
