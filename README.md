@@ -36,7 +36,7 @@ Welcome to my profile! You might find something interesting here... or maybe not
 width="340" 
 height="155" 
 align="center" 
-src="![Top Langs](https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&layout=compact)" />
+src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&layout=compact&theme=radica&count_private=true" />
 </p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TheDarkSinner) -->
