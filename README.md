@@ -29,7 +29,7 @@ Welcome to my profile! You might find something interesting here... or maybe not
   width="450" 
   height="155"
   align="center" 
-  src="https://github-stats-thedarksinners-projects.vercel.app/api?username=TheDarkSinner&show_icons=true&theme=tokyonight&count_private=true&"
+  src="https://github-stats-thedarksinners-projects.vercel.app/api?username=TheDarkSinner&show_icons=true&theme=radical&count_private=true&"
   alt="Matheus Github Stats" 
   />
 <img 
