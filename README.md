@@ -6,9 +6,9 @@ Welcome to my profile! You might find something interesting here... or maybe not
 
 ## 🚀 About Me
 
-- 🖥️ **Technologies**: Node.js, TypeScript, Solidity, React, Express, OutSystems
-- 🛠️ **Tools**: Puppeteer, Selenium, GraphQL, N8N, WebSockets...
-- 💡 **Interests**: Blockchain, Smart Contracts, DeFi, Bots, Game Hacking, Pentests.
+- 🖥️ **Technologies**: React, TypeScript, Node.js, Express, OutSystems, Solidity
+- 🛠️ **Tools**: N8N, Railway, Puppeteer, Selenium, GraphQL...
+- 💡 **Interests**: Saas, AI, Blockchain, Smart Contracts, Bots, Game Hacking, Pentests.
 
 ### 😊 Want to get in touch with me?
 
@@ -36,7 +36,7 @@ Welcome to my profile! You might find something interesting here... or maybe not
 width="340" 
 height="155" 
 align="center" 
-src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&layout=compact&theme=radica&count_private=true" />
+src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
 </p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TheDarkSinner) -->
