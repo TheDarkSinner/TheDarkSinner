@@ -71,4 +71,5 @@ src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?user
 <img alt="OutSystems" title="OutSystems" src="https://img.shields.io/badge/OutSystems-E94B2A?style=for-the-badge&logo=outsystems&logoColor=white">
 </code>
 
+###
 **Most of my work was in private repositories, if you want to see it, just let me know**
