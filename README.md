@@ -2,6 +2,10 @@
 
 Welcome to my profile! You might find something interesting here... or maybe not. 😄 I'm a Brazilian fascinated by **blockchain**, **web scraping**, **automations** and I've left some visible traces of these passions along the way. Feel free to explore and see what sparks your curiosity!
 
+<a href="https://vibe-coded-curriculum.vercel.app/">
+  <img src="https://img.shields.io/badge/My_Curriculum-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="My Curriculum" />
+</a>
+
 ---
 
 ## 🚀 About Me
