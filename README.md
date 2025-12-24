@@ -30,14 +30,14 @@ Welcome to my profile! You might find something interesting here... or maybe not
   width="450" 
   height="155"
   align="center" 
-  src="https://github-stats-90230ekye-thedarksinners-projects.vercel.app/api?username=TheDarkSinner&show_icons=true&theme=radical&count_private=true&"
+  src="https://github-stats-thedarksinners-projects.vercel.app/api?username=TheDarkSinner&show_icons=true&theme=radical&count_private=true&"
   alt="Matheus Github Stats" 
   />
 <img 
 width="340" 
 height="155" 
 align="center" 
-src="https://github-stats-90230ekye-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
+src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs/?username=TheDarkSinner&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
 </p>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=TheDarkSinner) -->
