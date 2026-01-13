@@ -40,7 +40,7 @@ align="center"
 src="https://github-stats-thedarksinners-projects.vercel.app/api/top-langs?username=TheDarkSinner,dealernode&show_icons=true&theme=radical&layout=compact&count_private=true&include_all_commits=true" />
 </p>
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=TheDarkSinner) -->
+<!-- ![Profile Views] -->
 
 ## 💻 Development Tools
 <code>
